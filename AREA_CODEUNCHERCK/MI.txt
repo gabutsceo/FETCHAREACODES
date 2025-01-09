@@ -1,0 +1,447 @@
+Baldwin
+Allegan
+Algonac
+Athens
+Allendale
+Alpena
+Atlanta
+Adrian
+Auburn
+Bad Axe
+Allen Park
+Inkster
+Au Sable
+Ann Arbor
+Argentine
+Armada
+Almont
+Auburn Hills
+Albion
+Alma
+Bangor
+Bay City
+Battle Creek
+Beecher
+Beechwood
+Beaverton
+Benton Heights
+Baraga
+Benton Harbor
+Bath
+Belding
+Bellaire
+Bellevue
+Belleville
+Beverly Hills
+Beulah
+Berkley
+Berrien Springs
+Bessemer
+Big Rapids
+Bingham Farms
+Blissfield
+Bridgeport
+Birch Run
+Bloomfield Hills
+Birmingham
+Breckenridge
+Boyne City
+Bridgman
+Burton
+Byron Center
+Brownlee Park
+Buchanan
+Cadillac
+Bronson
+Brooklyn
+Brighton
+Brown City
+Burt
+Buena Vista
+Caledonia
+Canadian Lakes
+Canton
+Capac
+Cassopolis
+Caro
+Carrollton
+Carleton
+Cass City
+Carson City
+Center Line
+Cheboygan
+Charlotte
+Clare
+Chelsea
+Clarkston
+Cedar Springs
+Centreville
+Chesaning
+Charlevoix
+Clawson
+Coldwater
+Crystal Falls
+DeWitt
+Clio
+Clinton
+Coloma
+Clinton Township
+Coopersville
+Colon
+Croswell
+Davison
+Cutlerville
+Comstock Park
+Constantine
+Concord
+Dearborn Heights
+Corunna
+Coleman
+Dearborn
+Decatur
+Dollar Bay
+Dimondale
+Douglas
+East Jordan
+Detroit
+Durand
+Dexter
+Edgemont Park
+Detroit Beach
+East Grand Rapids
+Eaton Rapids
+East Lansing
+Eagle River
+East Tawas
+Dundee
+Dowagiac
+Eastwood
+Ecorse
+Eastpointe
+Essexville
+Elk Rapids
+Edwardsburg
+Edmore
+Farmington
+Escanaba
+Evart
+Forest Hills
+Fowlerville
+Farmington Hills
+Ferrysburg
+Fair Plain
+Fennville
+Fenton
+Flat Rock
+Ferndale
+Flint
+Flushing
+Fowler
+Frankenmuth
+Frankfort
+Fremont
+Freeland
+Galesburg
+Gaylord
+Gladstone
+Gladwin
+Gibraltar
+Fraser
+Franklin
+Goodrich
+Grand Blanc
+Fruitport
+Grandville
+Grand Ledge
+Grand Haven
+Garden City
+Grass Lake
+Grand Rapids
+Grayling
+Greenville
+Grosse Pointe Shores
+Grosse Pointe Park
+Harper Woods
+Harbor Beach
+Grosse Pointe Farms
+Grosse Pointe
+Grosse Pointe Woods
+Grosse Ile
+Greilickville
+Hamtramck
+Gwinn
+Hancock
+Harbor Springs
+Hartford
+Harrison
+Harrisville
+Haslett
+Hart
+Harvey
+Holt
+Highland Park
+Hazel Park
+Hudsonville
+Holland
+Hastings
+Holly
+Houghton
+Hillsdale
+Hemlock
+Howell
+Hubbard Lake
+Houghton Lake
+Homer
+Imlay City
+Howard City
+Hudson
+Huntington Woods
+Ionia
+Indian River
+Iron River
+Iron Mountain
+Ithaca
+Jenison
+Ishpeming
+Kalamazoo
+Jackson
+Ironwood
+Jonesville
+Kalkaska
+Laingsburg
+Kentwood
+Keego Harbor
+Kent City
+Kingsford
+L'Anse
+Kilmanagh
+Kingsley
+Lake City
+Lake Fenton
+Lake Michigan Beach
+Lapeer
+Lakewood Club
+Lake Odessa
+Lake Orion
+Lakeview
+Lansing
+Lambertville
+Lakeview
+Leland
+Linden
+Lathrup Village
+Livonia
+Lewiston
+Leslie
+Litchfield
+Lexington
+Lawton
+Laurium
+Lincoln Park
+Ludington
+Madison Heights
+Lowell
+Manchester
+Luna Pier
+Memphis
+Marcellus
+Manistee
+Mancelona
+Melvindale
+Marysville
+Marine City
+Marquette
+Marshall
+Manton
+Manistique
+Marlette
+Mattawan
+Mason
+Menominee
+Michigan Center
+Middleville
+Midland
+Mount Morris
+Montrose
+Muskegon Heights
+Millington
+Montague
+Milan
+Nashville
+Muskegon
+Munising
+Milford
+Mount Clemens
+Napoleon
+Negaunee
+Mio
+Mount Pleasant
+Monroe
+Morenci
+New Baltimore
+New Buffalo
+New Haven
+Newberry
+North Branch
+Northville
+North Muskegon
+New Haven
+Newaygo
+Northview
+Novi
+Norway
+Niles
+Ontonagon
+Orchard Lake
+Oak Park
+Okemos
+Norton Shores
+Ortonville
+Olivet
+Otsego
+Ovid
+Oxford
+Parchment
+Owosso
+Paw Paw
+Paw Paw Lake
+Perry
+Pearl Beach
+Petersburg
+Pigeon
+Petoskey
+Pinckney
+Pinconning
+Pontiac
+Portage
+Pleasant Ridge
+Plainwell
+Plymouth
+Port Huron
+Reese
+Ravenna
+Quincy
+Prudenville
+Quinnesec
+Portland
+Rapid City
+Potterville
+Redford
+Reading
+Richmond
+Reed City
+River Rouge
+Rochester
+Rochester Hills
+Rockford
+Riverview
+Rockwood
+Rogers City
+Romeo
+Romulus
+Roseville
+Saginaw
+Saint Joseph
+Saint Helen
+Roosevelt Park
+Roscommon
+Royal Oak
+Saline
+Saint Charles
+Sandusky
+Saranac
+Saint Ignace
+Sand Lake
+Saint Johns
+Saint Louis
+Schoolcraft
+Sebewaing
+Scottville
+Sault Ste. Marie
+Shelby
+Shelby
+South Gull Lake
+Skidway Lake
+Shepherd
+South Rockwood
+Shields
+South Monroe
+Southgate
+Saint Clair Shores
+South Haven
+Southfield
+Spring Arbor
+Spring Lake
+South Lyon
+Sparta
+Springfield
+Stambaugh, Iron River
+Standish
+Saint Clair
+Stanton
+Tawas City
+Stony Point
+Stevensville
+Swartz Creek
+Temperance
+Sterling Heights
+Stockbridge
+Sylvan Lake
+Stony Point
+Taylor
+Sturgis
+Three Rivers
+Tecumseh
+Traverse City
+Trowbridge Park
+Trenton
+Twin Lake
+Troy
+Three Oaks
+Union City
+Utica
+Lake Isabella
+Vicksburg
+Wacousta
+Vandercook Lake
+Vassar
+Waterford
+Wayne
+West Monroe
+Wakefield
+Watervliet
+Walled Lake
+Walker
+Webberville
+Warren
+Waverly
+West Ishpeming
+West Branch
+Wayland
+Westland
+Whitmore Lake
+White Cloud
+Westwood
+White Pigeon
+Williamston
+Whitehall
+Wixom
+Wyoming
+Wolf Lake
+Wolverine Lake
+Woodhaven
+Level Park-Oak Park
+Woodland Beach
+Yale
+Wyandotte
+Zeeland
+Zilwaukee
+Ypsilanti
+K. I. Sawyer Air Force Base
+Manitou Beach-Devils Lake
+Comstock Northwest
+West Bloomfield Township
+Shorewood-Tower Hills-Harbert
+Saginaw Township North
+Bay Harbor
+Barnes Lake-Millers Lake

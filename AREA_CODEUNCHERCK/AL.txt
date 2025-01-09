@@ -1,0 +1,313 @@
+Brighton
+Blue Ridge
+Bayou La Batre
+Bessemer
+Birmingham
+Bay Minette
+Brent
+Brewton
+Brook Highland
+Bear Creek
+Blountsville
+Berry
+Boaz
+Bridgeport
+Brundidge
+Butler
+Bynum
+Calera
+Brookwood
+Camden
+Center Point
+Carbon Hill
+Centre
+Chelsea
+Carrollton
+Brookside
+Cahaba Heights
+Cherokee
+Centreville
+Chickasaw
+Chalkville
+Cedar Bluff
+Chatom
+Childersburg
+Clanton
+Clay
+Cordova
+Clayton
+Coosada
+Clio
+Cottonwood
+Cullman
+Coaling
+Collinsville
+Citronelle
+Choccolocco
+Dadeville
+Crossville
+Cleveland
+Columbiana
+Concord
+Cowarts
+Creola
+Daleville
+Deatsville
+Decatur
+Elberta
+Dothan
+Fairfield
+Daphne
+Evergreen
+Dora
+East Brewton
+Falkville
+Eufaula
+Eclectic
+Enterprise
+Dauphin Island
+Demopolis
+Danville
+East Florence
+Double Springs
+Eutaw
+Fairhope
+Flint City
+Florence
+Fort Deposit
+Foley
+Fyffe
+Florala
+Forestdale
+Fultondale
+Glencoe
+Georgiana
+Fayetteville
+Gadsden
+Good Hope
+Fayette
+Fort Payne
+Flomaton
+Geneva
+Gardendale
+Goodwater
+Frisco City
+Graysville
+Grayson Valley
+Hanceville
+Guin
+Greensboro
+Gulf Shores
+Hamilton
+Guntersville
+Harpersville
+Hayden
+Harvest
+Hayneville
+Grand Bay
+Gordo
+Grove Hill
+Greenville
+Haleyville
+Hackleburg
+Hartselle
+Hartford
+Heflin
+Homewood
+Henagar
+Helena
+Holtville
+Hoover
+Jasper
+Jemison
+Indian Springs Village
+Jacksonville
+Huntsville
+Inverness
+Headland
+Holt
+Hokes Bluff
+Hazel Green
+Hueytown
+Huguley
+Irondale
+Jackson
+Ladonia
+Level Plains
+Lake Purdy
+Leeds
+Lafayette
+Leesburg
+Lineville
+Madison
+Lipscomb
+Livingston
+Luverne
+Malvern
+Kinsey
+Kimberly
+Lake View
+Lincoln
+Linden
+Lanett
+Locust Fork
+Loxley
+Marion
+Meadowbrook
+Meridianville
+Montgomery
+Moody
+Millbrook
+Mignon
+Minor
+Montevallo
+Moundville
+Moulton
+Marbury
+Monroeville
+Margaret
+Mount Olive
+Midland City
+Mobile
+Midfield
+Morris
+Moores Mill
+Munford
+North Bibb
+Muscle Shoals
+New Brockton
+Newton
+Opelika
+Oxford
+Northport
+Oneonta
+Opp
+Ozark
+Pelham
+Mountain Brook
+New Hope
+New Market
+Mount Vernon
+Ohatchee
+Odenville
+Orange Beach
+Owens Cross Roads
+Pell City
+Pike Road
+Phil Campbell
+Phenix City
+Piedmont
+Pinson
+Pleasant Grove
+Point Clear
+Pine Level
+Prattville
+Priceville
+Prichard
+Red Bay
+Ragland
+Rainbow City
+Rainsville
+Reform
+Rehobeth
+Riverside
+Roanoke
+Rock Creek
+Rogersville
+Rockford
+Russellville
+Robertsdale
+Saks
+Sardis City
+Satsuma
+Samson
+Saraland
+Shelby
+Sheffield
+Selma
+Scottsboro
+Semmes
+Smiths Station
+Smoke Rise
+Southside
+Slocomb
+Spanish Fort
+Springville
+Sulligent
+Stewartville
+Stevenson
+Steele
+Sumiton
+Sylvania
+Sylvan Springs
+Summerdale
+Sylacauga
+Tallassee
+Taylor
+Tarrant
+Thomasville
+Town Creek
+Taylor
+Talladega
+Thorsby
+Tillmans Corner
+Theodore
+Troy
+Tuscumbia
+Trussville
+Tuscaloosa
+Trinity
+Valley
+Vincent
+Union Springs
+Valley Grande
+Tuskegee
+Uniontown
+Vandiver
+Vestavia Hills
+Vernon
+Vance
+West Blocton
+Warrior
+Weaver
+Webb
+Wedowee
+Winfield
+Albertville
+Whitesboro
+Westover
+York
+Elba
+Abbeville
+Alexandria
+Wilsonville
+Wetumpka
+Alexander City
+Woodstock
+Adamsville
+Elmore
+Alabaster
+Anniston
+Aliceville
+Arab
+Argo
+Andalusia
+Atmore
+Athens
+Ashville
+Ashford
+Ashland
+Attalla
+Fort Rucker
+Selmont-West Selmont
+Ballplay
+Auburn
+Underwood-Petersville
+Emerald Mountain
+Redstone Arsenal
+West End-Cobb Town
+Carlisle-Rockledge
+Washington Street Courthouse Annex
+Highland Lakes
+Dixiana
+Shoal Creek

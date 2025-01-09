@@ -1,0 +1,178 @@
+Candia
+Alstead
+Barrington
+Antrim
+Boscawen
+Brentwood
+Barnstead
+Bow Bog
+Bedford
+Bridgewater
+Belmont
+Bristol
+Berlin
+Atkinson
+Ashland
+Alexandria
+Canterbury
+Brookline
+Auburn
+Andover
+Center Harbor
+Chesterfield
+Chichester
+Colebrook
+Chester
+Contoocook
+Derry
+Claremont
+Charlestown
+East Concord
+Deerfield
+Conway
+Danville
+Concord
+Danbury
+Durham
+Deering
+Derry Village
+Dover
+Dublin
+East Kingston
+Enfield
+Effingham
+Epsom
+East Merrimack
+Epping
+Farmington
+Exeter
+Fitzwilliam
+Freedom
+Fremont
+Grafton
+Francestown
+Greenfield
+Gilford
+Gilmanton
+Franklin
+Grantham
+Gorham
+Goffstown
+Greenland
+Holderness
+Hampton
+Hampstead
+Greenville
+Jefferson
+Henniker
+Hudson
+Groveton
+Hampton Beach
+Hill
+Hanover
+Jaffrey
+Harrisville
+Hampton Falls
+Hollis
+Hinsdale
+Haverhill
+Hooksett
+Hopkinton
+Kensington
+Laconia
+Madbury
+Littleton
+Kingston
+Keene
+Madison
+Lee
+Litchfield
+Londonderry
+Lebanon
+Lancaster
+Marlborough
+Lyndeborough
+Lempster
+Merrimack
+Manchester
+Meredith
+Mason
+Lyme
+Northfield
+Milan
+North Haverhill
+Mont Vernon
+New London
+Moultonborough
+Newton
+Northwood
+New Boston
+Nashua
+Milford
+Newmarket
+New Ipswich
+New Durham
+New Castle
+Newbury
+Newport
+North Conway
+Northumberland
+North Hampton
+Nottingham
+Orford
+Ossipee
+Pelham
+Peterborough
+Portsmouth
+Pittsfield
+Richmond
+Pembroke
+Rindge
+Plaistow
+Salisbury
+Plymouth
+Rye
+Pinardville
+Rochester
+Rumney
+Raymond
+Salem
+Rollinsford
+Sanbornton
+Sanbornville
+Sandown
+Sutton
+Somersworth
+Sandwich
+Troy
+Seabrook
+Suncook
+Stratham Station
+Strafford
+Sunapee
+Tilton
+Springfield
+Stratford
+South Hooksett
+Swanzey
+Thornton
+Temple
+Tamworth
+Tuftonboro
+Unity
+Wakefield
+Wilmot
+Wolfeboro
+Wilton
+Allenstown
+Windham
+Whitefield
+Winchester
+Weare
+Westmoreland
+Webster
+West Swanzey
+Woodstock
+Tilton-Northfield
+Woodsville
+Hillsborough

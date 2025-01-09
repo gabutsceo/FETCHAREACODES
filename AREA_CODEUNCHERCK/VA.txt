@@ -1,0 +1,381 @@
+Annandale
+Ashburn
+Amelia Court House
+Amherst
+Arlington
+Abingdon
+Alexandria
+Apple Mountain Lake
+Accomac
+Yorktown
+Appomattox
+Altavista
+Baileys Crossroads
+Adwolf
+Aquia Harbour
+Appalachia
+Ashland
+Fort Hunt
+Atkins
+Bealeton
+Belle Haven
+Bassett
+Bedford
+Basye
+Big Stone Gap
+Bensley
+Belmont
+Bellwood
+Berryville
+Bluefield
+Blue Ridge
+Blacksburg
+Bland
+Blackstone
+Bracey
+Bon Air
+Bowling Green
+Brambleton
+Boydton
+Brightwood
+Bristol
+Bridgewater
+Broadlands
+Brandermill
+Broadway
+Brookneal
+Buckingham
+Buckhall
+Buchanan
+Buena Vista
+Cana
+Burke
+Bull Run
+Bull Run Mountain Estates
+Carrollton
+Cape Charles
+Cedar Bluff
+Castlewood
+Cave Spring
+Central Garage
+Chamberlayne
+Cedar Bluff
+Chantilly
+Centreville
+Charlottesville
+Charlotte Court House
+Chase City
+Chatham
+Charles City
+Chesterfield
+Chatmoss
+Chester
+Chesapeake
+Cherry Hill
+Chincoteague
+Clarksville
+Chesterfield Court House
+Chilhowie
+Christiansburg
+Claypool Hill
+Coeburn
+Clifton Forge
+Cloverdale
+Clintwood
+Countryside
+Covington
+Colonial Beach
+Concord
+Collinsville
+Crozet
+Colonial Heights
+Courtland
+Crewe
+Crimora
+Daleville
+Cumberland
+Culpeper
+Dahlgren
+Dale City
+Deltaville
+Dooms
+Danville
+Dayton
+Dinwiddie
+Dryden
+Dumfries
+Dulles Town Center
+Dranesville
+Dublin
+East Hampton
+East Highland Park
+East Lexington
+Dunn Loring
+Dumbarton
+Elkton
+Eastville
+Emory
+Edinburg
+Emporia
+Ettrick
+Exmore
+Enon
+Falmouth
+Fairfax
+Fairlawn
+Falls Church
+Fort Lee
+Fairfax Station
+Fishersville
+Fredericksburg
+Floris
+Farmville
+Fairlawn
+Forest
+Fincastle
+Franconia
+Franklin
+Ferrum
+Floyd
+Gainesville
+Hampton
+Glasgow
+Gordonsville
+Galax
+Gretna
+Grottoes
+Hampden Sydney
+Halifax
+Glade Spring
+Goochland
+Gate City
+Grundy
+Gloucester Point
+Front Royal
+Glen Allen
+Gloucester Courthouse
+Greenbriar
+Groveton
+Great Falls
+Hanover
+Hayfield
+Herndon
+Harrisonburg
+Haymarket
+Henry Fork
+Heathsville
+Highland Springs
+Hopewell
+Huntington
+Hybla Valley
+Hillsville
+Independent Hill
+Hurt
+Hollymead
+Idylwood
+Hollins
+Honaker
+Horse Pasture
+Isle of Wight
+Jefferson
+Lebanon
+Lancaster
+King George
+Lake Barcroft
+Laymantown
+Kings Park
+King William
+Leesburg
+Kenbridge
+Kilmarnock
+Lexington
+Lakeside
+Lake Ridge
+Lawrenceville
+Laurel
+King and Queen Court House
+Jolivue
+Jonesville
+Lake Monticello
+Lincolnia
+Lorton
+Luray
+Madison
+Lunenburg
+Lovingston
+Louisa
+Linton Hall
+Lovettsville
+Loch Lomond
+Lowes Island
+Lynchburg
+Manassas
+Martinsville
+Mantua
+Manassas Park
+Madison Heights
+Lyndhurst
+Marshall
+Marion
+Mathews
+Massanutten
+Massanetta Springs
+Mechanicsville
+McLean
+Matoaca
+Motley
+Merrifield
+Middletown
+Montclair
+Merrimac
+Montrose
+Merrimac
+Montross
+Mount Jackson
+Monterey
+Narrows
+Mountain Road
+Narrows
+Mount Hermon
+New Baltimore
+Nellysford
+Occoquan
+Onancock
+Patrick Springs
+New Castle
+North Springfield
+Oakton
+Nokesville
+Newport News
+Newington
+North Shore
+Oak Grove
+New Market
+Norton
+Passapatanzy
+Norfolk
+Palmyra
+Pannill Fork
+Orange
+Pearisburg
+Petersburg
+Pennington Gap
+Pimmit Hills
+Pembroke
+Poquoson
+Prince George
+Portsmouth Heights
+Powhatan
+Reston
+Potomac Mills
+Radford
+Portsmouth
+Purcellville
+Richmond
+Richlands
+Ravensworth
+Pulaski
+Prices Fork
+Raven
+Roanoke
+South Hill
+Rocky Mount
+Salem
+Shenandoah
+Shenandoah Farms
+Rural Retreat
+Rustburg
+Saltville
+Saluda
+Ruckersville
+Rose Hill
+Seven Corners
+Short Pump
+Rushmere
+Shawsville
+Smithfield
+South Boston
+Shawnee Land
+Sandston
+South Riding
+Spotsylvania
+Staunton
+Stuarts Draft
+South Suffolk
+Springfield
+Stuart
+Spotsylvania Courthouse
+Suffolk
+Stanley
+Surry
+Stephens City
+Springville
+Stafford
+Stanardsville
+Strasburg
+Stanleytown
+Sudley
+Sugarland Run
+Sterling
+Tappahannock
+Virginia Beach
+Warm Springs
+Sussex
+Vienna
+Timberville
+Timberlake
+Wattsville
+Washington
+Victoria
+Tuckahoe
+Union Hall
+Tazewell
+Verona
+Triangle
+Vinton
+Tysons Corner
+Warrenton
+University Center
+Warsaw
+Waynesboro
+Weber City
+Waverly
+West Gate
+Weber City
+West Lynchburg
+West Falls Church
+Woodstock
+Woodlawn
+Wyndham
+Weyers Cave
+Williamsburg
+Woodbridge
+Winchester
+West Point
+Wytheville
+Wolf Trap
+Windsor
+West Springfield
+Woodlawn
+Yorkshire
+Independence
+Fort Lee
+Mount Vernon
+Meadowbrook
+Kings Park West
+Loudoun Valley Estates
+Twin Lakes
+Captains Cove
+Fort Belvoir
+Boswell's Corner
+Quantico Station
+Oak Hill
+Plum Creek
+New Kent
+Woodlake
+Wise
+Belmont Estates
+Southern Gateway
+Woodburn
+Laurel Hill
+Pantops

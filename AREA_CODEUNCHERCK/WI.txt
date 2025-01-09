@@ -1,0 +1,423 @@
+Adams
+Algoma
+Antigo
+Alma
+Albany
+Abbotsford
+Amherst
+Amery
+Allouez
+Brussels
+Alto
+Addison
+Altoona
+Appleton
+Balsam Lake
+Barton
+Augusta
+Ashford
+Belle Plaine
+Bangor
+Bayside
+Ashland
+Arcadia
+Aztalan
+Barneveld
+Ashwaubenon
+Athens
+Baraboo
+Belgium
+Baldwin
+Belleville
+Beaver Dam
+Barron
+Bellevue
+Beloit
+Berlin
+Black Creek
+Black River Falls
+Boyceville
+Brooklyn
+Brice Prairie
+Big Bend
+Blair
+Bevent
+Brillion
+Boscobel
+Bloomer
+Black Earth
+Brookfield
+Bohners Lake
+Bonduel
+Bristol
+Brodhead
+Burlington
+Cato
+Brown Deer
+Brothertown
+Campbellsport
+Cambridge
+Browns Lake
+Chilton
+Butler
+Chippewa Falls
+Cadott
+Cameron
+Cedarburg
+Cashton
+Cleveland
+Caledonia
+Camp Lake
+Clear Lake
+Cedar Grove
+Chetek
+Clinton
+Clintonville
+Dane
+Combined Locks
+Cottage Grove
+Colby
+Como
+Cornell
+Cross Plains
+Colfax
+Columbus
+Concord
+Darien
+Darlington
+Cudahy
+Cooperstown
+Cuba City
+Cumberland
+Dakota
+Crandon
+De Forest
+Edgerton
+Eldorado
+Delavan
+Eagle
+Dousman
+Delafield
+Deerfield
+Dickeyville
+Dodgeville
+Denmark
+Eau Claire
+Edgar
+East Troy
+Eagle River
+Eagle Lake
+De Pere
+Easton
+Durand
+Delavan Lake
+Ellsworth
+Elm Grove
+Fennimore
+Fontana
+Elkhorn
+Fall Creek
+Fall River
+Fox Lake
+Frederic
+Florence
+Elroy
+Franklin
+Fond du Lac
+Fitchburg
+Fox Point
+Franksville
+Evergreen
+Fredonia
+Evansville
+Fort Atkinson
+Friendship
+Galesville
+Genoa City
+Glenmore
+Glenwood City
+French Island
+Hales Corners
+Grafton
+Greendale
+Green Bay
+Gillett
+Glendale
+Germantown
+Greenfield
+Hammond
+Hartford
+Grantsburg
+Green Lake
+Greenwood
+Hartland
+Holmen
+Hayward
+Howard
+Jefferson
+Hortonville
+Ixonia
+Hillsboro
+Hurley
+Hazel Green
+Independence
+Howards Grove
+Hilbert
+Johnson Creek
+Hudson
+Juneau
+Hustisford
+Iola
+Horicon
+Jackson
+Janesville
+Keshena
+Kenosha
+Lake Delton
+Ladysmith
+Lake Koshkonong
+Kaukauna
+Kiel
+Kohler
+Lake Hallie
+Kimberly
+Kewaunee
+Kewaskum
+Lake Nebagamon
+Lake Ripley
+Kronenwetter
+King
+Lac du Flambeau
+La Crosse
+Lake Mills
+Lake Geneva
+Lomira
+Lake Wisconsin
+Madison
+Lodi
+Little Round Lake
+Marathon
+Manawa
+Lannon
+Lake Wissota
+Lake Wazeecha
+Manitowoc
+Manchester
+Lamartine
+Little Chute
+Lancaster
+Luck
+Loyal
+Maple Bluff
+Luxemburg
+Marinette
+Marion
+Mequon
+Menomonee Falls
+Medford
+Milton
+Mayville
+Menasha
+McFarland
+Marshall
+Markesan
+Middleton
+Menomonie
+Mauston
+Mazomanie
+Mineral Point
+Merrill
+Marshfield
+Milwaukee
+Merton
+Milford
+Mondovi
+Nashotah
+Mosinee
+Nekoosa
+Mishicot
+Nashville
+Monona
+New Holstein
+Neillsville
+Montello
+Neenah
+Monticello
+Monroe
+New Glarus
+Mukwonago
+Mount Morris
+Muscoda
+Mount Horeb
+Muskego
+New Berlin
+New Lisbon
+Niagara
+New London
+North La Crosse
+North Fond du Lac
+New Richmond
+North Hudson
+Oregon
+Oakfield
+Oconomowoc
+Oconto Falls
+Newburg
+North Prairie
+Oconto
+Oak Creek
+Okauchee Lake
+Onalaska
+Omro
+Oneida
+Oostburg
+Osceola
+Palmyra
+Osseo
+Peshtigo
+Oshkosh
+Orfordville
+Paddock Lake
+Pleasant Prairie
+Pell Lake
+Phillips
+Park Falls
+Pittsfield
+Pardeeville
+Port Washington
+Platteville
+Plymouth
+Port Edwards
+Pewaukee
+Plover
+Portage
+Powers Lake
+Poynette
+Prairie du Chien
+Potter Lake
+Portland
+Redgranite
+Random Lake
+Prescott
+Richland Center
+Prairie du Sac
+Reedsburg
+Princeton
+Rice Lake
+Richfield
+Randolph
+Pulaski
+Reedsville
+Rhinelander
+Racine
+Rib Mountain
+Richmond
+Rio
+Ripon
+River Falls
+River Hills
+Roxbury
+Sauk City
+Saint Francis
+Seymour
+Rochester
+Rosendale
+Roberts
+Salem
+Rutland
+Rothschild
+Seymour
+Saint Croix Falls
+Schofield
+Saint Peter
+Saukville
+Shell Lake
+Sharon
+Sheboygan Falls
+Shawano
+Sheboygan
+Sparta
+South Milwaukee
+Silver Lake
+Shorewood Hills
+Silver Lake
+Spencer
+Shorewood
+Spring Green
+Slinger
+Somers
+Shullsburg
+Sherwood
+Spooner
+Siren
+Somerset
+Spring Valley
+Strum
+Stanley
+Stevens Point
+Stoughton
+Stratford
+Sturtevant
+Thiensville
+Sturgeon Bay
+Sun Prairie
+Suamico
+Tichigan
+Tainter Lake
+Thorp
+Trempealeau
+Superior
+Tomah
+Sussex
+Theresa
+Tomahawk
+Waterloo
+Waukesha
+Wauwatosa
+Union Grove
+Walworth
+Washburn
+Two Rivers
+Viroqua
+Waunakee
+Twin Lakes
+Waupun
+Wausau
+Verona
+Turtle Lake
+West Baraboo
+Watertown
+Wales
+Wautoma
+Waupaca
+Waterford
+West Bend
+Westby
+West Allis
+West Salem
+Weston
+Wind Point
+Whiting
+Weyauwega
+West Milwaukee
+Whitehall
+Whitefish Bay
+Wind Lake
+Westfield
+Williams Bay
+Winneconne
+Wisconsin Rapids
+Wisconsin Dells
+Windsor
+Wittenberg
+Whitewater
+Woodville
+Kohler
+Hobart
+Wrightstown
+Legend Lake
+Rome
+Maine
+Harrison
+Mount Pleasant
+Decatur

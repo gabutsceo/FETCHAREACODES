@@ -1,0 +1,286 @@
+Atkins
+Akron
+Adel
+Avoca
+Aplington
+Alton
+Algona
+Ankeny
+Arnolds Park
+Audubon
+Ackley
+Alta
+Albia
+Anamosa
+Asbury
+Altoona
+Baxter
+Allison
+Atlantic
+Ames
+Bellevue
+Belle Plaine
+Bettendorf
+Belmond
+Bedford
+Boone
+Bloomfield
+Bondurant
+Blue Grass
+Buffalo
+Brooklyn
+Britt
+Burlington
+Buffalo (historical)
+Carlisle
+Carroll
+Carter Lake
+Cascade
+Camanche
+Cedar Falls
+Cedar Rapids
+Center Point
+Central City
+Centerville
+Centerville
+Cherokee
+Chariton
+Clarinda
+Clarion
+Charles City
+Clive
+Clear Lake
+Clarksville
+Clinton
+Colfax
+Corning
+Coon Rapids
+Conrad
+Coralville
+Columbus Junction
+Council Bluffs
+Cresco
+Corydon
+Creston
+Dakota City
+Davenport
+Denver
+Decorah
+De Witt
+Dallas Center
+De Soto
+Dike
+Dubuque
+Denison
+Des Moines
+Earlham
+Dyersville
+Durant
+Dysart
+Eagle Grove
+Elk Run Heights
+Eldridge
+Elkader
+Eldora
+Eddyville
+Epworth
+Estherville
+Evansdale
+Emmetsburg
+Ely
+Farley
+Fairbank
+Fayette
+Fairfax
+Fairfield
+George
+Fort Dodge
+Garner
+Fort Madison
+Forest City
+Greene
+Glidden
+Glenwood
+Gilbert
+Granger
+Grimes
+Grundy Center
+Greenfield
+Grinnell
+Guthrie Center
+Hamburg
+Hampton
+Hartley
+Harlan
+Guttenberg
+Holstein
+Hiawatha
+Hudson
+Hawarden
+Hull
+Indianola
+Huxley
+Independence
+Humboldt
+Ida Grove
+Iowa Falls
+Iowa City
+Jesup
+Jewell
+Jefferson
+Keokuk
+Keosauqua
+Kingsley
+Lake City
+Johnston
+Kalona
+Knoxville
+Lake Mills
+Lake Park
+La Porte City
+Laurens
+Lamoni
+Le Claire
+Lake View
+Le Mars
+Lone Tree
+Logan
+Leon
+Lisbon
+Lenox
+Malvern
+Manchester
+Madrid
+Manly
+Maharishi Vedic City
+Mapleton
+Manning
+Marcus
+Maquoketa
+Manson
+Mitchellville
+Marion
+Marshalltown
+Mason City
+Mount Ayr
+Milford
+Mechanicsville
+Montezuma
+Mediapolis
+Missouri Valley
+Monona
+Marengo
+Monticello
+Melcher-Dallas
+Monroe
+Moville
+Nashua
+Muscatine
+Mount Pleasant
+Mount Vernon
+Newton
+New Hampton
+New London
+Nevada
+New Sharon
+Norwalk
+Nora Springs
+North English
+North Liberty
+Northwood
+Ogden
+Onawa
+Oakland
+Oelwein
+Oakland
+Orange City
+Osage
+Osceola
+Oskaloosa
+Ottumwa
+Park View
+Panora
+Paullina
+Palo
+Parkersburg
+Peosta
+Pleasantville
+Perry
+Pleasant Hill
+Polk City
+Pella
+Postville
+Pocahontas
+Prairie City
+Preston
+Red Oak
+Riverside
+Remsen
+Reinbeck
+Primghar
+Rock Valley
+Robins
+Rockwell
+Rockwell City
+Rock Rapids
+Saylorville
+Saint Ansgar
+Roland
+Sanborn
+Sac City
+Shell Rock
+Sheldon
+Shenandoah
+Sergeant Bluff
+Sheffield
+Sibley
+Sigourney
+Sioux Center
+Sioux City
+Sidney
+Solon
+Spencer
+Spirit Lake
+Storm Lake
+Slater
+Springville
+Story City
+Tama
+State Center
+Stuart
+Strawberry Point
+Tiffin
+Tipton
+Tripoli
+Toledo
+Sumner
+University Heights
+Urbana
+Traer
+Urbandale
+Van Meter
+Walford
+Vinton
+Walcott
+Villisca
+Waterloo
+Waukon
+Wapello
+Waukee
+Washington
+Waverly
+West Burlington
+West Branch
+Webster City
+Wellman
+Wilton
+West Des Moines
+West Liberty
+West Union
+Williamsburg
+Winfield
+Lake Panorama
+Woodward
+Woodbine
+Windsor Heights
+Winterset

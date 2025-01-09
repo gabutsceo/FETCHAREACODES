@@ -1,0 +1,387 @@
+Alma
+Adel
+Adairsville
+Alamo
+Americus
+Atlanta
+Austell
+Ashburn
+Abbeville
+Auburn
+Appling
+Aragon
+Arlington
+Alto
+Albany
+Arcade
+Augusta
+Acworth
+Alpharetta
+Athens
+Avondale Estates
+Bainbridge
+Baldwin
+Blairsville
+Blakely
+Blackshear
+Bonanza
+Bloomingdale
+Ball Ground
+Baxley
+Barnesville
+Berkeley Lake
+Belvedere Park
+Blue Ridge
+Bogart
+Braselton
+Boston
+Brookhaven
+Bowdon
+Bremen
+Brooklet
+Buchanan
+Camilla
+Cairo
+Buford
+Brunswick
+Canton
+Butler
+Broxton
+Buena Vista
+Byron
+Calhoun
+Carrollton
+Chamblee
+Cartersville
+Cave Spring
+Carnesville
+Chatsworth
+Centerville
+Cedartown
+Chattanooga Valley
+Clarkston
+Clarkesville
+Cleveland
+Columbus
+Country Club Estates
+Conyers
+Chester
+Country Club Estates
+Cochran
+Cordele
+Commerce
+Chickamauga
+Claxton
+Colquitt
+Comer
+Conley
+Clayton
+Cornelia
+College Park
+Cumming
+Covington
+Cuthbert
+Crawfordville
+Cusseta
+Danielsville
+Dacula
+Decatur
+Dawson
+Darien
+Dalton
+Deenwood
+Dallas
+Davisboro
+Dahlonega
+Dawsonville
+Doraville
+Dock Junction
+Donalsonville
+Demorest
+Douglas
+Douglasville
+Emerson
+Dublin
+Duluth
+Eastman
+East Point
+Dunwoody
+Evans
+Ellaville
+East Griffin
+Elberton
+Druid Hills
+Edison
+East Dublin
+East Newnan
+Eatonton
+Euharlee
+Enigma
+Ellijay
+Experiment
+Fairburn
+Fair Oaks
+Flowery Branch
+Fitzgerald
+Fayetteville
+Fairview
+Folkston
+Forsyth
+Fort Gaines
+Forest Park
+Fort Oglethorpe
+Fort Valley
+Franklin
+Georgetown
+Gibson
+Georgetown
+Garden City
+Franklin Springs
+Gainesville
+Glennville
+Hampton
+Guyton
+Hardwick
+Gordon
+Grayson
+Harlem
+Hapeville
+Greensboro
+Hahira
+Grovetown
+Grantville
+Hannahs Mill
+Gray
+Griffin
+Greenville
+Gresham Park
+Gumlog
+Hamilton
+Hartwell
+Hawkinsville
+Hogansville
+Hoschton
+Hiawassee
+Hephzibah
+Hiram
+Hazlehurst
+Jefferson
+Holly Springs
+Homer
+Helena
+Hinesville
+Indian Springs
+Irondale
+Indian Springs
+Homerville
+Irwinton
+Isle of Hope
+Jackson
+Jasper
+Jefferson
+Jeffersonville
+Jonesboro
+Kingsland
+Lincolnton
+Leesburg
+Kennesaw
+Jesup
+Lawrenceville
+Lilburn
+Lavonia
+Lakeview
+Lakeview Estates
+Knoxville
+La Grange
+Lexington
+Lake City
+Lindale
+LaFayette
+Lakeland
+Lithonia
+Lithia Springs
+Macon
+Ludowici
+Louisville
+Locust Grove
+Lula
+Lovejoy
+Lookout Mountain
+Mableton
+Madison
+Loganville
+Lumber City
+Lumpkin
+Lyons
+Marietta
+Maysville
+Martinez
+Marshallville
+Manchester
+McCaysville
+Monroe
+Millen
+Milledgeville
+Metter
+Meigs
+Montezuma
+Midway
+McDonough
+McRae
+Montgomery
+Morgan
+Monticello
+Mountain City
+Mount Airy
+Mount Zion
+Mount Zion
+Morrow
+Mount Vernon
+Moultrie
+Mountain Park
+North Atlanta
+Newton
+Nahunta
+Ocilla
+Nicholson
+Oglethorpe
+North Decatur
+Nelson
+Oxford
+North Druid Hills
+Norcross
+Nicholls
+Oakwood
+Omega
+Panthersville
+Oakwood
+Nashville
+Palmetto
+Newnan
+Peachtree City
+Perry
+Pearson
+Pelham
+Peachtree Corners
+Pembroke
+Pine Mountain
+Port Wentworth
+Quitman
+Reed Creek
+Preston
+Powder Springs
+Pine Mountain
+Porterdale
+Pooler
+Putney
+Redan
+Raoul
+Ray City
+Reidsville
+Reynolds
+Russell
+Rome
+Roswell
+Rydal
+Ringgold
+Richland
+Richmond Hill
+Royston
+Rochelle
+Rincon
+Rossville
+Rockmart
+Remerton
+Riverdale
+Sandersville
+Sandy Springs
+Saint Simon Mills
+St. Marys
+Saint Simons Island
+Savannah
+Statham
+Senoia
+Shannon
+Smyrna
+Snellville
+Social Circle
+Shannon
+Sparta
+Scottdale
+Sardis
+Soperton
+Skidaway Island
+Sparks
+Springfield
+Statesboro
+Sparks
+Statenville
+Stockbridge
+Stone Mountain
+Sugar Hill
+Summerville
+Swainsboro
+Suwanee
+Sunnyside
+Sylvania
+Tallapoosa
+Talbotton
+Thomasville
+Thunderbolt
+Tennille
+Trenton
+Toccoa
+Thomaston
+Thomson
+Sylvester
+Tifton
+Temple
+Trion
+Tucker
+Twin City
+Varnell
+Washington
+Unadilla
+Vienna
+Tyrone
+Vinings
+Warrenton
+Warner Robins
+Watkinsville
+Tybee Island
+Walnut Grove
+Union City
+Wadley
+Vidalia
+Union Point
+Villa Rica
+Walthourville
+Unionville
+Valdosta
+Waynesboro
+Waycross
+Johns Creek
+Willacoochee
+Chattahoochee Hills
+West Point
+Woodstock
+Winder
+Fort Stewart
+Woodbine
+Milton
+West Point
+Candler-McAfee
+Wrightsville
+Whitemarsh Island
+Wrens
+Wilmington Island
+Zebulon
+Winterville
+Young Harris
+Kings Bay Base
+St Marys
+Henderson
+Stonecrest
+Robins Air Force Base
+Firing Range
+West Warrenton
