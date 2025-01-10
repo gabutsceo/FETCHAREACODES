@@ -133,12 +133,14 @@ def main():
     with open(input_file, 'r') as f:
         cities = [line.strip() for line in f if line.strip()]
     
+    # List to track cities that failed to fetch area codes
+    missing_cities = []
+
     # Fetch area codes for each city
     for city in cities:
         print(f"Fetching area codes for {city}, {state}...")
         area_codes = fetch_area_codes(city, state, api_key, proxies)
         
-        # If area codes are found, process them
         if area_codes:
             # Store new area codes and cities
             new_area_code_map = {}
@@ -152,11 +154,23 @@ def main():
             
             # Save incrementally after each request
             save_incrementally(updated_data, output_file)
+        else:
+            # If no area codes found, log the city
+            missing_cities.append(f"{city}, {state}")
         
         # Delay before the next request
         time.sleep(5)
-    
+
+    # Log missing cities if any
+    if missing_cities:
+        with open('not_found_cities.txt', 'a') as f:
+            for city in missing_cities:
+                f.write(f"{city}\n")
+        print(f"Cities not found: {', '.join(missing_cities)}. Logged to not_found_cities.txt")
+
     print(f"Results synchronized and saved incrementally to {output_file}")
+
+
 
 if __name__ == "__main__":
     main()
